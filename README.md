@@ -25,7 +25,7 @@ scikit-learn  # for regression in Hubble notebooks
 ```
 
 > *Notebooks may also reference FITS files and CSV datasets included in the repository.*
-## 📘 Notebooks Overview
+## Notebooks Overview
 
 | Notebook | Key Focus | Data Source |
 |--------|----------|-------------|
